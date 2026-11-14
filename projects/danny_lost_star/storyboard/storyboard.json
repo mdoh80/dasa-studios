@@ -1,0 +1,254 @@
+{
+  "episode_title": "Danny and the Little Lost Star",
+  "target_age": "Children aged 4–6",
+  "total_duration_seconds": 120,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "A Twinkle Beneath the Leaf",
+      "duration_seconds": 15,
+      "location": "Danny’s sunny garden beside his yellow house, at early evening",
+      "characters": [
+        "Danny",
+        "Little Star"
+      ],
+      "visual_action": "Danny, a friendly little green dinosaur with a round snout and large brown eyes, walks into the colourful garden carrying a small blue watering can. He cheerfully waters red, pink and purple flowers. As sparkling drops splash onto the soil, a silver glow flickers beneath a big green leaf. Danny stops, tilts his head curiously and tiptoes closer. The scene concludes as he gently lifts the leaf and sees two tiny shining eyes.",
+      "camera_direction": "Begin with a wide establishing shot of the yellow house and bright garden. Track sideways with Danny as he waters the flowers. Cut to close-ups of water droplets bouncing from petals. Slowly push toward the glowing leaf, then show Danny’s curious face in close-up before revealing the light beneath it.",
+      "narration": "Danny was a friendly little green dinosaur. He lived in a yellow house with a bright, sunny garden. One evening, Danny went outside to water his flowers. Splash, splash, splash! Suddenly, he saw something twinkling under a big leaf.",
+      "dialogue": [
+        {
+          "character": "Danny",
+          "text": "Hello?"
+        }
+      ],
+      "music_mood": "Warm, playful garden music with soft bells; quietens to gentle curiosity when the leaf begins to glow.",
+      "sound_effects": [
+        "Soft evening birdsong",
+        "Water splashing from the watering can",
+        "Leaves rustling",
+        "Delicate magical twinkle"
+      ],
+      "video_prompt": "Create a colourful, warm 3D children’s animation at early evening. A small friendly green dinosaur with a round snout, large brown eyes and no clothing walks from a yellow house into a sunny flower garden, carrying a blue watering can. He moves from flower to flower, tipping the can as sparkling water splashes over bright petals. A silver light suddenly pulses beneath a large leaf. Danny freezes, tilts his head, tiptoes forward and slowly lifts the leaf while the camera pushes in to reveal a tiny glowing presence underneath. Use soft rounded shapes, expressive movement and gentle lighting.",
+      "continuity_notes": "Danny is a small green dinosaur with a lighter green belly, round snout, large brown eyes and no clothing. His watering can is blue. The house is yellow with a red roof. Establish the tallest sunflower in the distant background for later scenes. The sky is beginning to turn blue-purple."
+    },
+    {
+      "scene_number": 2,
+      "title": "The Little Lost Star",
+      "duration_seconds": 15,
+      "location": "Among the flower beds in Danny’s garden",
+      "characters": [
+        "Danny",
+        "Little Star"
+      ],
+      "visual_action": "A tiny five-pointed star peeks from beneath the leaf and floats a few centimetres above the ground. Its soft silver glow trembles as its face looks worried. Danny kneels so they are eye to eye, listening with concern. He then smiles reassuringly and holds out both hands. The star brightens a little. Danny carefully places it on a folded yellow cloth inside his little red wagon and takes hold of the wagon handle.",
+      "camera_direction": "Use a close-up as the star slowly peeks out, followed by a two-shot at the characters’ eye level. Cut to Danny’s sympathetic expression, then to the star’s worried face. Pull back as Danny gently settles the star in the wagon.",
+      "narration": "A tiny star peeked out. It glowed with a soft, silver light. Danny listened carefully and promised to help it get home.",
+      "dialogue": [
+        {
+          "character": "Little Star",
+          "text": "Oh dear. I fell from the sky. Now I cannot get home."
+        },
+        {
+          "character": "Danny",
+          "text": "Do not worry. I will help you."
+        }
+      ],
+      "music_mood": "Tender, reassuring music with celesta notes and warm strings.",
+      "sound_effects": [
+        "Soft magical humming from the star",
+        "Gentle cloth rustle",
+        "Small wagon creak"
+      ],
+      "video_prompt": "Continue the warm 3D children’s animation in the same garden. From beneath the lifted leaf, a tiny silver five-pointed star with a sweet expressive face peeks out, rises slightly and flickers nervously. Danny kneels, leans closer with concerned eyes, then smiles and opens his hands reassuringly. The star relaxes and glows brighter. Danny carefully lifts it, places it on a folded yellow cloth in a small red wagon and curls his hand around the wagon handle. Animate clear facial expressions and slow, gentle movements.",
+      "continuity_notes": "Keep Danny’s appearance unchanged. The Little Star is small enough to fit in Danny’s hands, has five rounded points, a simple friendly face and a soft silver glow. The red wagon has four black wheels and contains a folded yellow cloth."
+    },
+    {
+      "scene_number": 3,
+      "title": "The Grassy Hill",
+      "duration_seconds": 15,
+      "location": "A rounded grassy hill just beyond Danny’s garden",
+      "characters": [
+        "Danny",
+        "Little Star"
+      ],
+      "visual_action": "Danny leans forward with determined but cheerful effort as he pulls the red wagon up the grassy slope. The star bobs safely on its cloth. At the top, Danny parks the wagon and gestures toward the darkening sky. The star rises onto its lowest point, stretches all five points upward and strains hopefully. It cannot reach, so it settles back into the wagon with a disappointed little droop. Danny gives it an encouraging smile.",
+      "camera_direction": "Start low beside the rolling wagon wheels, then tilt up to follow Danny climbing. Switch to a wide shot when they reach the hilltop, showing the large gap between the star and the sky. End on a medium two-shot of the drooping star and supportive Danny.",
+      "narration": "First, Danny pulled the wagon to the top of a grassy hill. The little star stretched up high, but the sky was still too far away.",
+      "dialogue": [
+        {
+          "character": "Danny",
+          "text": "Can you reach the sky from here?"
+        },
+        {
+          "character": "Little Star",
+          "text": "Not yet."
+        }
+      ],
+      "music_mood": "Light, hopeful climbing music, ending with a soft but reassuring downward phrase.",
+      "sound_effects": [
+        "Wagon wheels rolling over grass",
+        "Danny’s gentle effort sounds",
+        "Soft stretching squeak",
+        "Tiny disappointed chime"
+      ],
+      "video_prompt": "Animate Danny pulling the little red wagon up a rounded green hill as the wheels turn and bounce gently over tufts of grass. The silver star rides on its yellow cloth, swaying safely with the wagon. At the summit, Danny stops, catches his breath and points hopefully toward the evening sky. The star stands tall, stretches its rounded points upward and gives a small jump, but remains far below the sky. It droops briefly, and Danny bends near it with an encouraging smile. Use a wide shot to emphasize the distance above them.",
+      "continuity_notes": "The red wagon and yellow cloth remain unchanged. The sky is now a deeper blue-purple with the first faint stars appearing. The yellow house and garden should remain visible below the hill to maintain location continuity."
+    },
+    {
+      "scene_number": 4,
+      "title": "A Jump from the Stump",
+      "duration_seconds": 15,
+      "location": "Beside a broad tree stump near the garden gate",
+      "characters": [
+        "Danny",
+        "Little Star"
+      ],
+      "visual_action": "Danny carries the star carefully from the wagon to a flat tree stump. He climbs onto the stump, balances his feet and raises the star high above his head. The star bends down, springs upward with a hopeful bounce and briefly hangs in the air. It then drops gently back into Danny’s open arms. Danny steadies himself and hugs the star safely as the star sighs.",
+      "camera_direction": "Follow Danny from waist height as he climbs onto the stump. Tilt upward with his raised arms. Briefly hold the star against the open sky during its jump, then track downward into Danny’s arms. Finish with a close-up of their safe landing and thoughtful expressions.",
+      "narration": "Next, Danny stood on a tree stump and held the star above his head. The star gave a tiny jump. But it landed softly in Danny’s arms.",
+      "dialogue": [
+        {
+          "character": "Danny",
+          "text": "Up you go!"
+        },
+        {
+          "character": "Little Star",
+          "text": "I need one more boost."
+        }
+      ],
+      "music_mood": "Playful anticipation with a gentle comic bounce, followed by thoughtful soft notes.",
+      "sound_effects": [
+        "Feet scuffing on bark",
+        "Springy “boing”",
+        "Airy flutter",
+        "Soft magical plop into Danny’s arms"
+      ],
+      "video_prompt": "In the same rounded, colourful animation style, Danny carefully carries the glowing star to a broad tree stump and climbs onto it. He plants his feet, wobbles once, regains his balance and lifts the star over his head. The star crouches by bending its lower points, springs into the air with a playful boing and reaches toward the dark blue sky. It pauses briefly, then floats downward into Danny’s waiting arms. Danny catches it securely, smiles with relief and cradles it while the star gives a small sigh.",
+      "continuity_notes": "Danny remains gentle and confident; the attempt should feel safe rather than dangerous. The star’s glow must remain soft silver. The wagon is parked beside the stump and remains visible."
+    },
+    {
+      "scene_number": 5,
+      "title": "Danny’s Bright Idea",
+      "duration_seconds": 15,
+      "location": "Danny’s garden, beside the tallest sunflower",
+      "characters": [
+        "Danny",
+        "Little Star"
+      ],
+      "visual_action": "Danny sits beside the wagon with one finger on his chin, looking from the stump to the sky. The star waits quietly in his lap. Danny’s eyes brighten and he springs to his feet with a smile. He carries the star toward the tallest sunflower. Its golden head is high above them, so Danny gently pats its green stalk. The sunflower slowly bends down until its petals form a soft platform at Danny’s height.",
+      "camera_direction": "Begin in a medium close-up circling slightly around Danny as he thinks. Add a subtle push-in when his eyes brighten. Pan with him toward the sunflower, then tilt from its roots to its towering golden flower. Tilt back down as it bends toward Danny.",
+      "narration": "Danny thought and thought. Then he smiled. He carried the star to the tallest sunflower in his garden. The sunflower bent down low.",
+      "dialogue": [
+        {
+          "character": "Danny",
+          "text": "I know!"
+        },
+        {
+          "character": "Danny",
+          "text": "This sunflower can give you one more boost."
+        }
+      ],
+      "music_mood": "Quiet thinking notes that blossom into bright, confident music.",
+      "sound_effects": [
+        "Soft thinking chimes",
+        "Happy idea sparkle",
+        "Gentle footsteps",
+        "Leaves and stalk softly creaking as the sunflower bends"
+      ],
+      "video_prompt": "Animate Danny sitting beside the wagon with the silver star resting safely in his lap. He taps his chin, glances at the stump, then looks across the garden. His eyes widen, his face breaks into a smile and he jumps up with one raised finger. Carrying the star in both hands, he hurries carefully to the tallest sunflower. The camera tilts up its long green stalk to the large golden flower. Danny pats the stalk, and the sunflower gracefully bends down, leaves swaying, until its petals reach him like a soft platform.",
+      "continuity_notes": "Use the same tall sunflower established in Scene 1: thick green stalk, two broad leaves and large golden petals around a brown centre. It moves like a plant responding to Danny, without gaining a face or becoming a new speaking character."
+    },
+    {
+      "scene_number": 6,
+      "title": "Up, Up, Up!",
+      "duration_seconds": 15,
+      "location": "Beneath the tallest sunflower in Danny’s garden",
+      "characters": [
+        "Danny",
+        "Little Star"
+      ],
+      "visual_action": "Danny gently places the star in the middle of the golden petals. He steps back and raises both hands encouragingly. After they confirm they are ready, the sunflower begins to straighten. The flower rises slowly above Danny’s head, then higher than the fence and tree. The star holds onto the petals, first looking surprised and then delighted. Danny follows below with excited little steps, watching upward.",
+      "camera_direction": "Open with a close-up of Danny placing the star on the petals. Cut between their smiling faces for the dialogue. Use a smooth vertical tracking shot alongside the sunflower as it rises. End with a low-angle view from Danny’s position, showing the star high above him.",
+      "narration": "Danny placed the star on the sunflower’s golden petals. Then the sunflower slowly stood up. Up, up, up!",
+      "dialogue": [
+        {
+          "character": "Danny",
+          "text": "Ready?"
+        },
+        {
+          "character": "Little Star",
+          "text": "Ready!"
+        }
+      ],
+      "music_mood": "Rising, magical orchestral music with bells and soft strings building anticipation.",
+      "sound_effects": [
+        "Petals rustling",
+        "Green stalk gently creaking",
+        "Leaves swishing",
+        "Increasing magical shimmer"
+      ],
+      "video_prompt": "Show Danny gently setting the tiny glowing star into the centre of the bent sunflower’s golden petals. He steps backward and asks if it is ready; the star nods enthusiastically. The sunflower begins to straighten in one smooth, slow motion. Its stalk rises past Danny, above the garden fence and toward the darkening sky. The star holds the petals as its expression changes from surprise to delight. Danny trots beneath the moving flower with both arms raised, looking up excitedly. Track upward beside the sunflower to emphasize the safe, magical lift.",
+      "continuity_notes": "The star remains centred securely on the flower. The sunflower’s motion is smooth and gentle. Evening has deepened, but the garden remains warmly lit by the house windows and the star’s silver glow."
+    },
+    {
+      "scene_number": 7,
+      "title": "Back to the Sky",
+      "duration_seconds": 15,
+      "location": "High above Danny’s garden under the evening sky",
+      "characters": [
+        "Danny",
+        "Little Star"
+      ],
+      "visual_action": "As the sunflower reaches full height, a gentle breeze curls around its leaves and petals in visible sparkling swirls. The star loosens its hold and is lifted softly into the air. It floats in a slow spiral, rising higher and higher while its silver glow becomes brighter. Danny watches from below, bouncing happily on his toes. The star reaches the dark blue sky, settles among the other stars and beams down at Danny.",
+      "camera_direction": "Start at flower height in a close-up as the breeze circles the star. Orbit gently while it lifts off. Follow the star upward with a smooth crane movement, then cut to Danny’s joyful low-angle view. Finish on a wide shot containing Danny’s garden below and the restored star above.",
+      "narration": "At that moment, a gentle evening breeze swirled through the garden. Whoosh! It lifted the little star into the air. The star floated higher and higher. Soon, it was back in the dark blue sky.",
+      "dialogue": [
+        {
+          "character": "Little Star",
+          "text": "I made it! Thank you, Danny!"
+        },
+        {
+          "character": "Danny",
+          "text": "Good night, little star!"
+        }
+      ],
+      "music_mood": "Joyful magical swell, bright and triumphant while remaining gentle.",
+      "sound_effects": [
+        "Soft breeze building into a friendly whoosh",
+        "Petals fluttering",
+        "Sparkling rising chimes",
+        "Danny’s happy little laugh"
+      ],
+      "video_prompt": "At the top of the fully upright sunflower, animate a gentle evening breeze swirling around the leaves and golden petals in soft sparkling ribbons. The little silver star releases the petals and is lifted safely into the air. It spins once, then floats higher in a slow spiral as its glow grows brighter. Far below, Danny hops with joy and waves both arms. Follow the star into the dark blue sky, where it settles among the other stars, turns toward the garden and calls down happily. End with Danny continuing to wave beneath it.",
+      "continuity_notes": "The star should occupy a clear position directly above Danny’s garden so the same location can be used in the final scene. Keep the breeze soothing, with no storm clouds or strong wind. The sunflower remains tall and unharmed."
+    },
+    {
+      "scene_number": 8,
+      "title": "Hello, My Friend",
+      "duration_seconds": 15,
+      "location": "Danny’s garden and Danny’s cosy bedroom later that night",
+      "characters": [
+        "Danny",
+        "Little Star"
+      ],
+      "visual_action": "Danny stands near his yellow house and gazes upward. The little star twinkles once, pauses and twinkles twice. Danny understands, smiles and waves one last time. The view dissolves into his cosy bedroom, where he climbs under a patchwork blanket beside the window. Silver starlight falls gently across his pillow. Danny closes his eyes with a peaceful smile while the star continues glowing above the garden.",
+      "camera_direction": "Begin with a wide garden shot, then push in on the star for its three clear twinkles. Cut to Danny’s delighted reaction. Dissolve through the glowing window into the bedroom. Slowly pull back from Danny’s sleeping face toward the window, ending with the star framed above the garden.",
+      "narration": "From then on, the star shone above Danny’s garden every night. It twinkled once. It twinkled twice. And Danny knew it was saying, “Hello, my friend.” Danny smiled, climbed into bed and fell asleep under its warm, gentle glow.",
+      "dialogue": [
+        {
+          "character": "Danny",
+          "text": "Hello, my friend."
+        }
+      ],
+      "music_mood": "Soft bedtime lullaby with celesta, quiet strings and a warm final chord.",
+      "sound_effects": [
+        "Three distinct magical twinkles",
+        "Quiet nighttime crickets",
+        "Blanket rustling",
+        "Danny’s soft, sleepy sigh"
+      ],
+      "video_prompt": "Create a peaceful final sequence in the same warm 3D style. Danny stands outside his yellow house and looks up as the restored silver star shines directly above the garden. The star twinkles once, pauses, then twinkles twice, sending gentle rings of light across the sky. Danny smiles, waves and walks inside. Dissolve to his cosy bedroom as he climbs into bed, pulls a colourful patchwork blanket to his chin and looks through the window. Silver starlight moves softly across his pillow. Danny closes his eyes with a contented smile while the camera pulls back through the window to show the star glowing protectively above the sleeping garden.",
+      "continuity_notes": "Danny’s bedroom uses the same yellow-house exterior and includes a window facing the garden. Preserve Danny’s established appearance. End on a calm, happy image of the star above the yellow house and tall sunflower, reinforcing their friendship."
+    }
+  ]
+}

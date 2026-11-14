@@ -1,0 +1,50 @@
+
+{
+  "character_id": "danny",
+  "name": "Danny",
+  "version": "1.0",
+  "status": "approved",
+  "target_audience": "4-6 years",
+
+  "species": "Young dinosaur",
+  "approximate_height": "60 cm",
+
+  "appearance": {
+    "body_colour": "Teal turquoise",
+    "belly_colour": "Warm pale cream",
+    "markings": "Orange spots across his body and tail",
+    "spikes": "Bright orange rounded spikes running along his head and back",
+    "eyes": "Large expressive brown eyes",
+    "face": "Rounded friendly snout with a warm smile",
+    "body_shape": "Small, rounded and slightly chubby",
+    "arms": "Short arms with small rounded claws",
+    "legs": "Short sturdy legs",
+    "tail": "Long curved tail with orange markings and spikes"
+  },
+
+  "personality": [
+    "Cheerful",
+    "Curious",
+    "Brave",
+    "Kind",
+    "A little cheeky"
+  ],
+
+  "animation_style": {
+    "visual_style": "High-quality stylised 3D children's animation",
+    "movement": "Smooth, expressive and lively",
+    "expressions": "Warm, exaggerated and easy for young children to understand",
+    "tone": "Friendly, playful and reassuring"
+  },
+
+  "consistency_rules": [
+    "Always maintain the same teal body colour",
+    "Always retain the orange spots and orange spikes",
+    "Always retain the cream belly",
+    "Keep the same head and body proportions",
+    "Keep the large expressive brown eyes",
+    "Never change Danny's fundamental appearance between scenes"
+  ],
+
+  "visual_reference": "references/danny_character_sheet.png"
+}
