@@ -4,11 +4,17 @@
   "provider": "openai",
   "model": "gpt-image-2.5-sunburst",
   "approved_reference_sheet": "characters/danny/references/danny_character_sheet.png",
-  "approval_status": "pending_review",
+  "approval_status": "approved",
+  "approved_at": "2026-11-14T22:34:37Z",
+  "approval_method": "manual_review",
+  "approved_views": ["front", "side", "back"],
+  "approval_notes": "All three views were manually reviewed and approved.",
   "views": [
     {
       "view": "front",
       "status": "skipped_existing",
+      "approval_status": "approved",
+      "manually_reviewed": true,
       "output_filename": "danny_front.png",
       "prompt": "Edit the approved character reference image into a straight-on front view of the same character.\n\nUse the uploaded approved reference sheet as the visual source of truth. Preserve the exact approved character design, including all colours, markings, proportions, eyes, face, limbs, spikes, tail, clothing (if any), and distinctive features. Change only the camera angle required for this view; do not redesign, embellish, simplify, or reinterpret the character.\n\nCharacter: Danny\n\nSpecies: Young dinosaur\n\nApproved appearance description:\n- Body Colour: Teal turquoise\n- Belly Colour: Warm pale cream\n- Markings: Orange spots across his body and tail\n- Spikes: Bright orange rounded spikes running along his head and back\n- Eyes: Large expressive brown eyes\n- Face: Rounded friendly snout with a warm smile\n- Body Shape: Small, rounded and slightly chubby\n- Arms: Short arms with small rounded claws\n- Legs: Short sturdy legs\n- Tail: Long curved tail with orange markings and spikes\n\nApproved consistency rules:\n- Always maintain the same teal body colour\n- Always retain the orange spots and orange spikes\n- Always retain the cream belly\n- Keep the same head and body proportions\n- Keep the large expressive brown eyes\n- Never change Danny's fundamental appearance between scenes\n\nApproved animation style:\n- Visual Style: High-quality stylised 3D children's animation\n- Movement: Smooth, expressive and lively\n- Expressions: Warm, exaggerated and easy for young children to understand\n- Tone: Friendly, playful and reassuring\n\nOutput requirements:\n- Show one single full-body character, fully visible from head to feet and tail.\n- Use a neutral, consistent, uncluttered background.\n- Use even studio lighting and a clear readable silhouette.\n- Do not include text, labels, turntable grids, watermarks, logos, props, scenery, or extra characters.\n- Do not crop, pose dramatically, or add accessories.\n- This is a production reference image for children aged 4\u20136 and must remain friendly and reassuring.",
       "error": null
@@ -16,6 +22,8 @@
     {
       "view": "side",
       "status": "generated",
+      "approval_status": "approved",
+      "manually_reviewed": true,
       "output_filename": "danny_side.png",
       "prompt": "Edit the approved character reference image into a clean, true side profile view of the same character.\n\nUse the uploaded approved reference sheet as the visual source of truth. Preserve the exact approved character design, including all colours, markings, proportions, eyes, face, limbs, spikes, tail, clothing (if any), and distinctive features. Change only the camera angle required for this view; do not redesign, embellish, simplify, or reinterpret the character.\n\nCharacter: Danny\n\nSpecies: Young dinosaur\n\nApproved appearance description:\n- Body Colour: Teal turquoise\n- Belly Colour: Warm pale cream\n- Markings: Orange spots across his body and tail\n- Spikes: Bright orange rounded spikes running along his head and back\n- Eyes: Large expressive brown eyes\n- Face: Rounded friendly snout with a warm smile\n- Body Shape: Small, rounded and slightly chubby\n- Arms: Short arms with small rounded claws\n- Legs: Short sturdy legs\n- Tail: Long curved tail with orange markings and spikes\n\nApproved consistency rules:\n- Always maintain the same teal body colour\n- Always retain the orange spots and orange spikes\n- Always retain the cream belly\n- Keep the same head and body proportions\n- Keep the large expressive brown eyes\n- Never change Danny's fundamental appearance between scenes\n\nApproved animation style:\n- Visual Style: High-quality stylised 3D children's animation\n- Movement: Smooth, expressive and lively\n- Expressions: Warm, exaggerated and easy for young children to understand\n- Tone: Friendly, playful and reassuring\n\nOutput requirements:\n- Show one single full-body character, fully visible from head to feet and tail.\n- Use a neutral, consistent, uncluttered background.\n- Use even studio lighting and a clear readable silhouette.\n- Do not include text, labels, turntable grids, watermarks, logos, props, scenery, or extra characters.\n- Do not crop, pose dramatically, or add accessories.\n- This is a production reference image for children aged 4\u20136 and must remain friendly and reassuring.",
       "error": null
@@ -23,6 +31,8 @@
     {
       "view": "back",
       "status": "generated",
+      "approval_status": "approved",
+      "manually_reviewed": true,
       "output_filename": "danny_back.png",
       "prompt": "Edit the approved character reference image into a straight-on back view of the same character.\n\nUse the uploaded approved reference sheet as the visual source of truth. Preserve the exact approved character design, including all colours, markings, proportions, eyes, face, limbs, spikes, tail, clothing (if any), and distinctive features. Change only the camera angle required for this view; do not redesign, embellish, simplify, or reinterpret the character.\n\nCharacter: Danny\n\nSpecies: Young dinosaur\n\nApproved appearance description:\n- Body Colour: Teal turquoise\n- Belly Colour: Warm pale cream\n- Markings: Orange spots across his body and tail\n- Spikes: Bright orange rounded spikes running along his head and back\n- Eyes: Large expressive brown eyes\n- Face: Rounded friendly snout with a warm smile\n- Body Shape: Small, rounded and slightly chubby\n- Arms: Short arms with small rounded claws\n- Legs: Short sturdy legs\n- Tail: Long curved tail with orange markings and spikes\n\nApproved consistency rules:\n- Always maintain the same teal body colour\n- Always retain the orange spots and orange spikes\n- Always retain the cream belly\n- Keep the same head and body proportions\n- Keep the large expressive brown eyes\n- Never change Danny's fundamental appearance between scenes\n\nApproved animation style:\n- Visual Style: High-quality stylised 3D children's animation\n- Movement: Smooth, expressive and lively\n- Expressions: Warm, exaggerated and easy for young children to understand\n- Tone: Friendly, playful and reassuring\n\nOutput requirements:\n- Show one single full-body character, fully visible from head to feet and tail.\n- Use a neutral, consistent, uncluttered background.\n- Use even studio lighting and a clear readable silhouette.\n- Do not include text, labels, turntable grids, watermarks, logos, props, scenery, or extra characters.\n- Do not crop, pose dramatically, or add accessories.\n- This is a production reference image for children aged 4\u20136 and must remain friendly and reassuring.",
       "error": null
